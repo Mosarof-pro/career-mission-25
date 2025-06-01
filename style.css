@@ -105,6 +105,7 @@ body *{
 }
 .our-dream-image{
     width: 50%;
+   text-align: center;
 }
 img{
     
@@ -121,3 +122,61 @@ img{
     line-height: 30px;
     margin: 10px 0 20px 0;
 }
+/* inspare */
+.inspiration{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    
+}
+
+.boss{
+    text-align: center;
+    padding: 40px;
+    background-color: #c7e7f9;
+    border-radius: 30px;
+    width: 70%;
+    margin: auto;
+    border: 2px solid #394a533d;
+}
+.ok{
+    margin-top: 50px;
+}
+/* end */
+/* our-sevice */
+.our-service{
+    padding: 100px 0 ;
+}
+/* iteam */
+.service-item{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+   
+}
+.crad{
+    width: 25%;
+    background-image: linear-gradient(180deg,rgb(252, 252, 255), #b8e7fa);
+    padding: 50px;
+    border-radius: 30px;
+    box-shadow: 0 0 80px rgba(104, 103, 103, 0.849);
+    margin-top: 30px;
+}
+
+.footer-all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+}
+.footer-right{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 30px;
+}
+.done{
+    font-size: 40px;
+}
+
+
+
